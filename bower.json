@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "angular": ">1.2.0",
-    "ical": "techgrind/ical.js"
+    "ical": "techgrind/ical.js#master"
 
   },
   "devDependencies": {
